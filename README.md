@@ -57,10 +57,8 @@ Semua akun berikut telah di-seed ke dalam database:
 
 | Tipe Akun | Username | Password | Keterangan |
 |---|---|---|---|
-| **User** | `ferdiadit12` | `password123` | Profil kreator asli beserta postingan & chat |
 | **Admin** | `useradmin` | `admin123` | Administrator sistem |
 | **User** | `user123` | `password123` | Akun pengembang / tester |
-| **User** | `stevanusidea` | `password123` | Anggota komunitas (tersedia obrolan demo) |
 
 *(Tersedia tombol satu-klik di halaman login untuk mengisi akun demo secara otomatis)*
 
